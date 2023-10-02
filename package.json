@@ -1,0 +1,19 @@
+{
+  "name": "apicalafete",
+  "version": "1.0.0",
+  "description": "api rest para el manejo de reservas hoteles",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "juan gallego",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
